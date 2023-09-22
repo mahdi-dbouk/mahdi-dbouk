@@ -1,9 +1,7 @@
 <img src="https://i.ibb.co/KwKwJWX/github-readme-banner.png" alt="banner" height="auto" width="800">
 
-### Hi there 👋, my name is Mahdi
-#### I am a junior Software Developer who's always looking for the next big idea to develop!
-
-I am a junior Software Developer who's always looking for the next big idea to develop!
+## Hi there 👋, my name is Mahdi
+### I am a junior Software Developer who's always looking for the next big idea to develop!
 
 My passion for software development was created in a lab. Wait what?!
 I'm an ex-biology grad student who fell in love with coding while writing programs in the lab, and I kept at it ever since.

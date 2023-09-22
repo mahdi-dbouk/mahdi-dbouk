@@ -1,4 +1,4 @@
- <img src="https://ibb.co/QdDd4Mf" alt="banner" width='1280' height='640'>
+<img src="https://i.ibb.co/KwKwJWX/github-readme-banner.png" alt="banner" width='1280' height='640'>
 
 ### Hi there 👋, my name is Mahdi
 #### I am a junior Software Developer who's always looking for the next big idea to develop!

@@ -20,19 +20,11 @@ I'm an ex-biology grad student who fell in love with coding while writing progra
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" alt="Flutter" width="auto" height="24">      Flutter
 
 
+# Let's Connect:
+- Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahdi-dbouk)  
+- LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahdi-dbouk-56a316179//)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahdi-dbouk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahdi-dbouk-56a316179//)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahdi-dbouk)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-dbouk)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-dbouk&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahdi-dbouk)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mahdi-dbouk)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mahdi-dbouk)  
-
-![Profile views](https://gpvc.arturio.dev/mahdi-dbouk)  
